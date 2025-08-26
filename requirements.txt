@@ -1,5 +1,7 @@
 streamlit
 pandas
-PyPDF2
-textblob
-transformers
+pdf2image
+pytesseract
+Pillow
+nltk
+Sastrawi
